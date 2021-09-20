@@ -1,0 +1,6 @@
+- 👋 Hi, I'm Nikolay and I'm a software engineer based in Saint Petersburg 
+- ⏳ 10+ years of experience in the industry
+- 🖥 Most of my experience is the development of client-server solutions using C++
+- 🌐 Now focused on fullstack development with Node.js and React
+- 🛠 Really passionate about backend development and SQL
+- 💡 Always open minded to new technologies
